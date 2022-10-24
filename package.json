@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "source": "src/index.html",
+  "scripts": {
+    "dev": "parcel",
+    "serve": "parcel",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  }
+}
