@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  /* Body */
+  body {
+    @apply p-3;
+  }
+
+  /* Content */
+  main {
+    /* @apply pt-5; */
+  }
+}
